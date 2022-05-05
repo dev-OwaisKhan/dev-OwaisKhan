@@ -9,7 +9,7 @@ I am pursuing my B.Tech in CSE.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dev.owaiskhan@gmail.com](mailto:dev.owaiskhan@gmail.com)
 * 🧠  I'm learning Full stack Android App Development
-* 🤝  I'm open to collaborating on Android Application
+* 🤝  I'm open to collaborating on Instagram
 * ⚡  I'm the actual CEO of Google 😁
 
 ### Skills
