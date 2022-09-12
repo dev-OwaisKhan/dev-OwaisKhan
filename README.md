@@ -1,7 +1,7 @@
-Hi 👋 My name is Owais Khan
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Owais+Khan.;How+are+you+doing?)](https://git.io/typing-svg)
 ===========================
 
-Android App Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+App+Developer)](https://git.io/typing-svg)
 ---------------------
 
 I am pursuing my B.Tech in CSE.
