@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B+This+is+Owais+Khan.;How+are+you+doing%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B+this+is+Owais+Khan.;How+are+you+doing%3F)](https://git.io/typing-svg)
 ===========================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&lines=Android+App+Developer)](https://git.io/typing-svg)
